@@ -53,4 +53,4 @@ optional arguments:
 
 ###Example :
 
-`logreg_train.py -s -c -e 50 file`
+`logreg_train.py  -c -e 100 file`
