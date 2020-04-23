@@ -4,7 +4,7 @@ School 42 Data Science Project
 
 About
 -----
-Code the Sorting Hat of Hogwarts school
+Code Hogwarts school's Sorting Hat 
 
 
 Usage
