@@ -29,14 +29,23 @@ positional arguments:
 optional arguments:
 
   -h, --help  show this help message and exit
+
   -s          Stochastic gradient descent
+
   -a          Stochastic gradient descent with adam optimizer
+
   -c          Check results
+
   -p          Plot cost function
+
   -f          Forward fill method for NaN values. Default: DropNaN
+
   -e int        Epochs Number. Default: 100
+
   -ls         Linear Scalling. Default : Z_score
+
   -log        Log Scalling. Default : Z_score
+
   -v          Show compare
 
   `python3 logreg_predict.py dataset weights`
