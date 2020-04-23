@@ -19,7 +19,7 @@ Usage
 * Answer the following question: Which features are similar ?
 
 `python3 pair_plot.py dataset_path`
-* Show a pair_plot of all features present
+* Pair_plot of all features
 
 `logreg_train.py [-h] [-s] [-a] [-c] [-p] [-f] [-e E] [-ls] [-log] [-v] file`
 
@@ -27,7 +27,9 @@ positional arguments:
   file        input dataset path
 
 optional arguments:
+
   -h, --help  show this help message and exit
+
   -s          Stochastic gradient descent
   -a          Stochastic gradient descent with adam optimizer
   -c          Check results
