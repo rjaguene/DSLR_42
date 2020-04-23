@@ -29,7 +29,6 @@ positional arguments:
 optional arguments:
 
   -h, --help  show this help message and exit
-
   -s          Stochastic gradient descent
   -a          Stochastic gradient descent with adam optimizer
   -c          Check results
